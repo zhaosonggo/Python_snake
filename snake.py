@@ -1,6 +1,6 @@
 def show():
 	print("nihao")
-
+#lalalal
 show()
 
 i = 0
